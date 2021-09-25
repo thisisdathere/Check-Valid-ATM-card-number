@@ -13,4 +13,4 @@ Start from left to right, double the digit at the even position.
 
 Add all the result above and all the digit at the odd position of the number.
 
-If the last digit of the rusult above is 0, the card number is valid.
+If the last digit of the result above is 0, the card number is valid.
